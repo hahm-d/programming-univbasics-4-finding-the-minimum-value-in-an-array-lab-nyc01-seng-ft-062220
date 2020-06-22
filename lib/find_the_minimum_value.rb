@@ -5,4 +5,5 @@ def find_min_value(array)
       lowest = ele
     end
  end
+ lowest
 end
